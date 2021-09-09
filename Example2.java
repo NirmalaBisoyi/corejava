@@ -1,5 +1,5 @@
 package corejava;
-
+//this is example program
 public class Example2 {
 	private int var;
 
